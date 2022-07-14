@@ -1,0 +1,84 @@
+version: "2.0"
+
+intents:
+- i_1
+- i_2
+- i_3
+- i_4
+- i_5
+- i_6
+- i_7
+- i_8
+- i_9
+- i_10
+- i_11
+- i_12
+- i_13
+- i_14
+- i_15
+- i_16
+- i_17
+- i_18
+- i_19
+- i_20
+- i_21
+- i_22
+- i_23
+- i_24
+- i_25
+
+responses:
+  utter_1:
+  - text: "ID_1"
+  utter_2:
+  - text: "ID_2"
+  utter_3:
+  - text: "ID_3"
+  utter_4:
+  - text: "ID_4"
+  utter_5:
+  - text: "ID_5"
+  utter_6:
+  - text: "ID_6"
+  utter_7:
+  - text: "ID_7"
+  utter_8:
+  - text: "ID_8"
+  utter_9:
+  - text: "ID_9"
+  utter_10:
+  - text: "ID_10"
+  utter_11:
+  - text: "ID_11"
+  utter_12:
+  - text: "ID_12"
+  utter_13:
+  - text: "ID_13"
+  utter_14:
+  - text: "ID_14"
+  utter_15:
+  - text: "ID_15"
+  utter_16:
+  - text: "ID_16"
+  utter_17:
+  - text: "ID_17"
+  utter_18:
+  - text: "ID_18"
+  utter_19:
+  - text: "ID_19"
+  utter_20:
+  - text: "ID_20"
+  utter_21:
+  - text: "ID_21"
+  utter_22:
+  - text: "ID_22"
+  utter_23:
+  - text: "ID_23"
+  utter_24:
+  - text: "ID_24"
+  utter_other:
+  - text: "ID_other"
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

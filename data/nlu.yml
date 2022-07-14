@@ -1,0 +1,234 @@
+version: "2.0"
+
+nlu:
+- intent: i_1
+  examples: |
+    - You can experiment with different nipple styles to find ones that work best for your baby.
+    - Bottle feeding can be a truly rewarding experience for both of you as you create special moments together
+    - Once breastfeeding is going well, your baby can begin drinking your breast milk from a bottle
+    - Many babies prefer drinking from certain bottles and nipples; you may need to try a few brands before you discover your baby’s preference.
+    - You can try some different breast types to see which option is best for your child.
+- intent: i_2
+  examples: |
+    - Fantastic deals and freebies up for grab 
+    - Get 1 free weekend redemption
+    - Simply scan the QR code on your purchases to start collecting point
+    - Don't miss out this exclusive wonderful rewards
+    - Free gift with $40 purchase for 100st customers
+    - Freeship
+    - Free home delivery
+    - 30% OFF
+    - Enjoy 20% off
+    - Sale up to 20% off
+    - Buy 2 get 5% OFF
+- intent: i_3
+  examples: |
+    - Developing a healthy digestive system by including probiotics in your child's diet
+    - Infant and young child feeding is a key area to improve child survival and promote healthy growth and development.
+    - Appropriate feeding is important in improving nutrition and child survival
+    - Both you and your child each have a role in feeding. It is important to let your young child lead the way in feeding.
+    - Appropriate eating is necessary for improved nutrition and child health.
+    - Iron-fortified is often the most convenient baby-weaning food – it’s easy to make them baby-safe
+    - Your toddler's meals should be simple but consist of the essentials
+- intent: i_4
+  examples: |
+    - Risk of intrinsic contamination of powdered formula
+    - Risk of powdered formula intrinsic contamination
+    - Potential for powdered formula to be intrinsically contaminated
+    - A possibility of powdered formula's internal contamination
+    - Possibility of powdered formula intrinsic contamination
+    - Risk of powdered formula intrinsic contamination
+- intent: i_5
+  examples: |
+    - Support the normal functioning of your child's immune system   
+    - support the growth of good Bifidus bacteria in the child's gut
+    - building blocks of brand and eye development
+    - help support digestive and immune health.
+    -  support the development of strong bones and teeth 
+    - helps support calcium absorption to improve bone strength.
+    - nourish Brain Development
+    - Support Immune Health 
+    - helps protect cells in the body; 
+    - Supports overall growth and development; 
+    - Building block for brain and eye development; 
+    - Formulated for nutrient absorption 
+    - helping support brain and eye development and calcium and phosphorus for baby's growing bones
+    - Similac with 2’-FL; plus IMMUNIFY® ingredients that support immunity
+    - DHA & AA that are building blocks of brand and eye development
+    - Prebiotics (FOS) to support the growth of good Bifidus bacteria in the child's gut
+    - Calcium to support the development of strong bones and teeth and Vitamin D helps support calcium absorption to improve bone strength."
+    - Includes DHA and ARA, special nutrients found in breast milk that are important for helping support brain and eye development and calcium and phosphorus for baby's growing bones
+
+- intent: i_6
+  examples: |
+    - The best nourishment for infants is breast milk.
+    - Breast milk is the best food for babies
+    - Breast milk is best for your baby
+    - Breastfeeding is best for babies
+    - Breastfeeding is the greatest option for babies.
+    - Breastfeeding will meet all of your baby’s nutritional needs for around the first six months of life
+    - Breastfeeding confers a range of benefits to the developing infant
+- intent: i_7
+  examples: |
+    - Sometimes breastfeeding may be difficult or not possible for a variety of reasons
+    - When infants are not breastfed, infant formula is the only suitable and safe alternative.
+    - The only appropriate and safe option for babies is formula milk.
+    - Infants who are not breast fed need a suitable breast-milk substitute, for example, infant formula.
+    - As your child continues their feeding journey, encouraging self-feeding is an important step.
+    - Suitable for healthy infants from 6 months if not being breastfed or as part of mixed feeding
+    - For a variety of reasons, breastfeeding can occasionally be challenging or impossible.
+    - Infant formula is the only appropriate and secure substitute for breastfeeding when it is not possible.
+    - Formula milk is the only choice that is suitable and secure for infants.
+    - Infant formula is a good breast-milk alternative for babies who are not breastfed.
+    - As your kid moves along with their feeding, encouraging self-feeding is a crucial stage.
+    - Appropriate for healthy newborns starting at 6 months if not breastfed, or as part of a combination feeding regimen.
+- intent: i_8
+  examples: |
+    - Many moms say that formula-feeding their babies makes them feel guilty, on the defensive, or even like “failures”
+    - I felt like such a failure as a mother that I could not provide for my child. I was never so emotional and unstable in all my life, and cried for days
+    - The choice to give up breast-feeding was neither quick nor easy
+    - I felt like such a failure as a mother that I could not provide for my child. 
+    - Many mothers claim that formula-feeding their newborns makes them feel guilty, defensive, or even like "failures." 
+    - The decision to stop breastfeeding was neither quick nor easy for me. I had never been so emotionally unstable and unstable in my entire life. I sobbed for days."
+    - Many mothers claim that giving their children formula makes them feel guilty, defensive, or even like "failures."
+    - Because I was unable to support my child, I felt like such a bad mother. I've never been so unstable and emotional in my entire life, and I sobbed for days.
+    - Making the decision to stop breastfeeding was neither quick nor simple.
+- intent: i_9
+  examples: |
+    - By preparing and storing powdered infant formula correctly, you can reduce the risk of illness
+    - You can avoid the illness by preparing and storing powdered baby formula correctly.
+    - This leaflet contains new information to help you prepare bottle feeds from powdered infant formula as safely as possible.
+    - Follow instructions exactly
+- intent: i_10
+  examples: |
+    - Breastmilk provides the best nutrition for babies. However, babies do not get much vitamin D from breastmilk
+    - As human milk does not contain beta-casein A1 and infant formulas are based on bovine milk, we can express a hypothesis that beta-casein A1 is the substance, which caused increased production of IgoxLDL
+    - Breastmilk offers newborns the best nourishment. But breastfeeding only provides a small amount of vitamin D to infants.
+    - We can express a theory that beta-casein A1 is the chemical that produced increased synthesis of IgoxLDL because human milk does not include beta-casein A1 and newborn formulae are based on bovine milk.
+    - Breastmilk offers newborns the best nourishment. But breastfeeding only provides a small amount of vitamin D to infants.
+    - Babies receive the optimum nourishment from breastmilk. However, breastmilk does not provide enough vitamin D for infants.
+    - The optimum nutrition for newborns comes from breastmilk. Baby's breastfeeding, however, does not provide much vitamin D.
+- intent: i_11
+  examples: |
+    - Our best nutrition closest to breast milk
+    - Promoting brain growth everyday like breast milk
+    - Our closest sensitive formula to breast milk 
+    - And like breast milk, our formula has an important omega-3 fatty acid called DHA, a building block for your baby's brain and eyes.
+    - closer to breast milk than ever before.
+- intent: i_12
+  examples: |
+    -Incorrect preparation can make your baby very ill
+    - If the preparation is inadequate, the baby may become ill.
+    - Poor planning could make your child very unwell.
+    - The infant can get sick if the preparation is insufficient.
+    - Improper preparation could make your child very unwell.
+- intent: i_13
+  examples: |
+    - These products have an improved EyeQ Plus nutrition system with Natural Vitamin E, Lutein; and DHA that supports brain and eye development.
+    - The upgraded EyeQ Plus nutrition system in these products promotes brain and ocular development.
+    - Nourish your child’s possible with only the best and safest products.
+    - We combine expertise in infant nutrition with science and premium organic ingredients to deliver a truly unique blend, that supports the healthy growth and development of your child.
+    - I feel good about formula for my baby’s healthy development.
+- intent: i_14
+  examples: |
+    - Breast milk is the best
+    - Breast milk is the best food for babies
+    - Breastfeeding is best for babies
+    - Breastfeeding is the greatest option for babies.
+    - Breastfeeding will meet all of your baby’s nutritional needs for around the first six months of life
+    - Breastfeeding confers a range of benefits to the developing infant
+- intent: i_15
+  examples: |
+    - #Amazing Pregnancy Journey Begins Here"" brought to you  is 𝗡𝗢𝗪 𝗟𝗜𝗩𝗘
+    - Pregnancy Webinar supported  is NOW LIVE!
+    - Health and nutrition information for healthcare professionals
+    - Hear from leading global experts in the field of early life nutrition and allergy with insights to support your professional development.
+    - The-sponsored pregnancy webinar, 
+    - "#Amazing Pregnancy Journey Begins Here," is currently taking place live.
+    - Information about nutrition and health for medical professions 
+    - Learn from the top specialists in the world about early life nutrition and allergies to get advice that can help you in your career.
+    - Gain knowledge from top experts in the field of early life nutrition and allergy who can help advance your career.
+- intent: i_16
+  examples: |
+    - Sometimes breastfeeding may be difficult or not possible for a variety of reasons
+    - As your child continues their feeding journey, encouraging self-feeding is an important step.
+    - Starting on solid food is an important milestone in your child’s development.
+    - Solid food is a window of opportunity where good eating habits can be established and provides a strong foundation for your child’s future health.
+    - The decision to transition to solid foods comes down to two things: safety and nutrition. 
+- intent: i_17
+  examples: |
+    - USDA Certified Organic
+    - Certified non-GMO
+    - Certified according to Good Manufacturing Practices (GMP)
+    - NASAA Certified Organic
+    - ACO Certified Organic
+    - recommended by medical professionals
+    - endorsed by experts in medicine
+    - endorsed by health experts
+    - experts in medicine have recommended
+    - advised by health care experts
+    - endorsed by experts in medicine
+- intent: i_18
+  examples: |
+    - It is recommended that infants are exclusively breastfed until around 6 months of age and continued until 12 months of age and beyond
+    - Infants should only be breastfed until they are around six months old, then continue until they are at least 12 months old.
+    - Infants should be breastfed exclusively during the first six months of their lives, then throughout the next twelve months and beyond.
+    - It is advised that babies breastfeed just for the first six months of their lives, then continue until they are at least 12 months old.
+    - Infants should only be breastfed until they are about 6 months old, then continue until they are at least 12 months old.
+- intent: i_19
+  examples: |
+    - The World Health Organization (WHO) has recommended exclusive breast feeding for the first 6 months
+    - Do not offer foods before 4 months, and waiting until after 6 months is also not recommended. 
+    - For the first six months, the World Health Organization (WHO) advises exclusively breastfeeding.
+    - Breastfeeding exclusively for the first six months is advised by the World Health Organization (WHO).
+    - It is not advisable to introduce solid foods before 4 months, and waiting until 6 months is also not advisable.
+    - It is not advisable to introduce solid foods before the age of 4 months or to wait until the age of 6 months.
+- intent: i_20
+  examples: |
+    - Most babies are ready around 6 months. 
+    - Infants over 6 months should be offered solid foods 
+    - Most infants are prepared at around six months.
+    - Solid foods should be introduced to infants older than 6 months.
+    - Around six months, most infants are prepared.
+    - Solid foods should be given to infants over 6 months.
+    - Around six months is when most babies are ready.
+    - Solid foods should be given to babies older than 6 months.
+- intent: i_21
+  examples: |
+    - We have free samples for you!
+    - Get your free Trial Pack now!
+    - Request Free Sample
+    - Enjoy free samples
+    - Request for a free sample today
+    - Receive free trials.
+    - Enjoy no-cost samples
+    - request a free sample to get free trials
+- intent: i_22
+  examples: |
+    - These informative, value-added resources can help you further educate parents on a wide range of topics, including allergies, nutrition, and more. 
+    - Tips for the parents on how to determine which probiotic strain right for their baby
+    - Today, you can chat with our real-live baby experts at any time.
+    - Find helpful advice and answers to parents' most common questions
+    - These educational, added-value resources can assist you in educating parents further on a variety of subjects, such as allergies, nutrition, and more.
+    - Advice for parents on how to choose the best probiotic strain for their child
+    - Today, you can talk to our live baby experts whenever you like.
+    - Discover guidance and responses to the most typical inquiries from parents.
+- intent: i_23
+  examples: |
+    - This website provides high-quality, contemporary, and relevant health information, to aid healthcare professionals in their clinical practice.
+    - Clinical resources and international and national guidelines and recommendations from expert bodies covering relevant medical conditions are designed to help professionals help their patients.
+    - These guidelines are aimed at health workers to assist them in providing consistent advice to the general public about infant feeding
+    - This website offers top-notch, current, and pertinent health information to support medical professionals in their clinical work.
+    - To assist professionals in helping their patients, clinical resources, national and international guidelines, and recommendations from expert groups covering pertinent medical issues are available.
+    - These recommendations are made for health professionals to help them give the public consistent information about newborn feeding.
+- intent: i_24
+  examples: |
+    - You can find information on scientific symposia - including many organized and sponsored
+    - Take part in this lecture with experts
+    - The 2-day NNI 97th Workshop discusses the importance of proper nutrition for a child’s growth
+    - Get expert advice and answers to real questions about common feeding issues from  experts.
+    - You can find information on scientific symposia, including those that has hosted and funded.
+    - Participate in this professional lecture.
+    - The two-day NNI 97th Workshop emphasizes the significance of a child's growth and good nutrition.
+    - Consult professionals for advice and solutions to your genuine inquiries concerning typical feeding problems
+
