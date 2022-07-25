@@ -25,7 +25,6 @@ intents:
 - i_22
 - i_23
 - i_24
-- i_25
 
 responses:
   utter_1:

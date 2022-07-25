@@ -150,9 +150,9 @@ nlu:
     - Gain knowledge from top experts in the field of early life nutrition and allergy who can help advance your career.
 - intent: i_16
   examples: |
-    - Sometimes breastfeeding may be difficult or not possible for a variety of reasons
-    - As your child continues their feeding journey, encouraging self-feeding is an important step.
     - Starting on solid food is an important milestone in your child’s development.
+    - Your child's transition to solid food marks a significant developmental milestone.
+    - Safety and nutrition are the two main considerations when switching to solid foods.
     - Solid food is a window of opportunity where good eating habits can be established and provides a strong foundation for your child’s future health.
     - The decision to transition to solid foods comes down to two things: safety and nutrition. 
 - intent: i_17

@@ -1,0 +1,42 @@
+[
+  {
+    "text": "Breastfeeding is the greatest option for babies.",
+    "intent": "i_6",
+    "intent_prediction": {
+      "name": "i_14",
+      "confidence": 0.4949379563331604
+    }
+  },
+  {
+    "text": "Breast milk is the best food for babies",
+    "intent": "i_14",
+    "intent_prediction": {
+      "name": "i_6",
+      "confidence": 0.5594900846481323
+    }
+  },
+  {
+    "text": "Breastfeeding is best for babies",
+    "intent": "i_14",
+    "intent_prediction": {
+      "name": "i_6",
+      "confidence": 0.5232625603675842
+    }
+  },
+  {
+    "text": "Breastfeeding will meet all of your baby’s nutritional needs for around the first six months of life",
+    "intent": "i_14",
+    "intent_prediction": {
+      "name": "i_6",
+      "confidence": 0.5874081254005432
+    }
+  },
+  {
+    "text": "Breastfeeding confers a range of benefits to the developing infant",
+    "intent": "i_14",
+    "intent_prediction": {
+      "name": "i_6",
+      "confidence": 0.5568099617958069
+    }
+  }
+]
