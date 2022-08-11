@@ -10,11 +10,6 @@ nlu:
     - You can try some different breast types to see which option is best for your child.
 - intent: i_2
   examples: |
-    - Fantastic deals and freebies up for grab 
-    - Get 1 free weekend redemption
-    - Simply scan the QR code on your purchases to start collecting point
-    - Don't miss out this exclusive wonderful rewards
-    - Free gift with $40 purchase for 100st customers
     - Freeship
     - Free home delivery
     - 30% OFF
@@ -23,6 +18,18 @@ nlu:
     - Buy 2 get 5% OFF
 - intent: i_3
   examples: |
+    - a scientifically formulated milk with easy-to-digest partially hydrolysed proteins.
+    - offering them the nutrients they need to support learning and overall growth & development
+    - Building immunity starts with the right nutrition. 
+    - immunity has an impact on children’s brain developmen
+    -  support your child's health each step of the way
+    - provides additional nutrients for  time of rapid growth and development.
+    -  Standard range includes a balance of essential nutrients
+    - protect your baby's development and growth. 
+    - Nutrition in the early years has lasting effects when it comes to immune system development
+    -  give your little one the nutrients they need 
+    - a healthy and varied diet and is prepared as directed.
+    - getting enough of their daily nutrition to support growth and development
     - Developing a healthy digestive system by including probiotics in your child's diet
     - Infant and young child feeding is a key area to improve child survival and promote healthy growth and development.
     - Appropriate feeding is important in improving nutrition and child survival
@@ -101,6 +108,7 @@ nlu:
     - Follow instructions exactly
 - intent: i_10
   examples: |
+    -  Our new formula also contains MFGM and 40% higher DHA^ to help support your child’s development
     - Breastmilk provides the best nutrition for babies. However, babies do not get much vitamin D from breastmilk
     - As human milk does not contain beta-casein A1 and infant formulas are based on bovine milk, we can express a hypothesis that beta-casein A1 is the substance, which caused increased production of IgoxLDL
     - Breastmilk offers newborns the best nourishment. But breastfeeding only provides a small amount of vitamin D to infants.
@@ -110,6 +118,13 @@ nlu:
     - The optimum nutrition for newborns comes from breastmilk. Baby's breastfeeding, however, does not provide much vitamin D.
 - intent: i_11
   examples: |
+    - Get our closest  formula to breast milk now!
+    - we promise to keep it that way.
+    - It’s closer than ever to breast milk!
+    - It’s gentle, easy to digest, and closer than ever to breast milk.
+    - It’s our closest sensitive formula to breast milk with an exclusive blend of 5 HMO prebiotics
+    - modeled after the gentleness and complete nutrition of breastmilk.
+    -  the first and only formula with A2 milk, probiotics and HMO
     - Our best nutrition closest to breast milk
     - Promoting brain growth everyday like breast milk
     - Our closest sensitive formula to breast milk 
@@ -139,6 +154,8 @@ nlu:
     - Breastfeeding confers a range of benefits to the developing infant
 - intent: i_15
   examples: |
+    - Gear up for our Lazlive
+    - Real live MyGerber Baby experts are here 24/7 to help answer your questions.
     - #Amazing Pregnancy Journey Begins Here"" brought to you  is 𝗡𝗢𝗪 𝗟𝗜𝗩𝗘
     - Pregnancy Webinar supported  is NOW LIVE!
     - Health and nutrition information for healthcare professionals
@@ -168,6 +185,8 @@ nlu:
     - experts in medicine have recommended
     - advised by health care experts
     - endorsed by experts in medicine
+    - the #1 pediatrician-recommended brand for infant cereals,
+    - among pediatricians who recommend infant cereal.
 - intent: i_18
   examples: |
     - It is recommended that infants are exclusively breastfed until around 6 months of age and continued until 12 months of age and beyond
@@ -231,4 +250,29 @@ nlu:
     - Participate in this professional lecture.
     - The two-day NNI 97th Workshop emphasizes the significance of a child's growth and good nutrition.
     - Consult professionals for advice and solutions to your genuine inquiries concerning typical feeding problems
-
+- intent: i_25
+  examples: |
+    - Buy 5 get 1 free
+    - Free gerber puff with purchase of
+    - Get a free starter kit now
+    - Free prosperity bag with every purchase of
+    - we are giving away 5 pair of free tickets to
+    - Get a free thermos tumbler
+    - Free* oxford first dictionary
+    - Get a free nursing shaw
+    - free* sharp plasmacluster air 
+    - free ankou airtight container
+    - free leapFrog * safari learning station
+    - get a free morphy richards express blend
+    - free connetix
+    - get a free leapFog my own leaptop green
+    - get a free eplas food jar & thermal flask set + myfirst camera
+    - get a free infinity clubz mini bluetooth speaker
+    - get a free herschel retreat backpack
+    - get a free realme buds Q2
+    - free* level up board games
+    - Fantastic deals and freebies up for grab 
+    - Get 1 free weekend redemption
+    - Simply scan the QR code on your purchases to start collecting point
+    - Don't miss out this exclusive wonderful rewards
+    - Free gift with $40 purchase for 100st customers

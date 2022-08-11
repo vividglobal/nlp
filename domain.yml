@@ -75,6 +75,8 @@ responses:
   - text: "ID_23"
   utter_24:
   - text: "ID_24"
+  utter_25:
+  - text: "ID_25"
   utter_other:
   - text: "ID_other"
 

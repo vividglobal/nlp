@@ -1,18 +1,10 @@
 [
   {
-    "text": "Breastfeeding is the greatest option for babies.",
-    "intent": "i_6",
-    "intent_prediction": {
-      "name": "i_14",
-      "confidence": 0.4949379563331604
-    }
-  },
-  {
     "text": "Breast milk is the best food for babies",
     "intent": "i_14",
     "intent_prediction": {
       "name": "i_6",
-      "confidence": 0.5594900846481323
+      "confidence": 0.5493937134742737
     }
   },
   {
@@ -20,7 +12,15 @@
     "intent": "i_14",
     "intent_prediction": {
       "name": "i_6",
-      "confidence": 0.5232625603675842
+      "confidence": 0.6202763915061951
+    }
+  },
+  {
+    "text": "Breastfeeding is the greatest option for babies.",
+    "intent": "i_14",
+    "intent_prediction": {
+      "name": "i_6",
+      "confidence": 0.5265853404998779
     }
   },
   {
@@ -28,7 +28,7 @@
     "intent": "i_14",
     "intent_prediction": {
       "name": "i_6",
-      "confidence": 0.5874081254005432
+      "confidence": 0.48530200123786926
     }
   },
   {
@@ -36,7 +36,7 @@
     "intent": "i_14",
     "intent_prediction": {
       "name": "i_6",
-      "confidence": 0.5568099617958069
+      "confidence": 0.6077786087989807
     }
   }
 ]
