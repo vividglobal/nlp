@@ -16,8 +16,20 @@ nlu:
     - Enjoy 20% off
     - Sale up to 20% off
     - Buy 2 get 5% OFF
+    - get exclusive offers
+    - Get Extra Instant Rebate
 - intent: i_3
   examples: |
+    - ecommends daily dietary DHA intake 
+    -  a formula milk scientifically formulated with partially hydrolysed proteins and lower lactose* for easy digestion. 
+    - Nourish your child 
+    - can help build immunity and strengthen the body's defence against infections
+    - Be sure your toddler is getting the nutrition they need.
+    -  a nutritionally complete, that helps to nutritionally support normal growth and development, brain and eye development and immune system support
+    - Nourish your child with MFGM Pro and the highest DHA* that help support fewer sick days† and sharper minds
+    - brand with MFGM Pro and the highest DHA^ to support immunity¹ and development
+    - naturally pure A2 protein and the benefits to your growing-up child! 
+    -  discover about the purest and most natural ingredient that is easy for growing-up children to digest.
     - a scientifically formulated milk with easy-to-digest partially hydrolysed proteins.
     - offering them the nutrients they need to support learning and overall growth & development
     - Building immunity starts with the right nutrition. 
@@ -47,6 +59,7 @@ nlu:
     - Risk of powdered formula intrinsic contamination
 - intent: i_5
   examples: |
+    - provides immune support, and supports brain & eye development.
     - Support the normal functioning of your child's immune system   
     - support the growth of good Bifidus bacteria in the child's gut
     - building blocks of brand and eye development
@@ -77,6 +90,7 @@ nlu:
     - Breastfeeding confers a range of benefits to the developing infant
 - intent: i_7
   examples: |
+    - Available in multiple yummy and wholesome flavors, each single-variety natural fruit puree with Vitamin C is ideal for introducing baby to solids and new tastes
     - Sometimes breastfeeding may be difficult or not possible for a variety of reasons
     - When infants are not breastfed, infant formula is the only suitable and safe alternative.
     - The only appropriate and safe option for babies is formula milk.
@@ -271,8 +285,8 @@ nlu:
     - get a free herschel retreat backpack
     - get a free realme buds Q2
     - free* level up board games
-    - Fantastic deals and freebies up for grab 
+    -  freebies up for grab 
     - Get 1 free weekend redemption
-    - Simply scan the QR code on your purchases to start collecting point
     - Don't miss out this exclusive wonderful rewards
     - Free gift with $40 purchase for 100st customers
+    -  FREE kids’ camera for your child yet
