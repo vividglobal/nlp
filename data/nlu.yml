@@ -88,6 +88,7 @@ nlu:
     - Breastfeeding is the greatest option for babies.
     - Breastfeeding will meet all of your baby’s nutritional needs for around the first six months of life
     - Breastfeeding confers a range of benefits to the developing infant
+    - Breast milk is the best
 - intent: i_7
   examples: |
     - Available in multiple yummy and wholesome flavors, each single-variety natural fruit puree with Vitamin C is ideal for introducing baby to solids and new tastes
@@ -160,12 +161,11 @@ nlu:
     - I feel good about formula for my baby’s healthy development.
 - intent: i_14
   examples: |
-    - Breast milk is the best
-    - Breast milk is the best food for babies
-    - Breastfeeding is best for babies
-    - Breastfeeding is the greatest option for babies.
-    - Breastfeeding will meet all of your baby’s nutritional needs for around the first six months of life
-    - Breastfeeding confers a range of benefits to the developing infant
+    - BPA Free
+    - Bisphenol A Free
+    - BPA free water bottles
+    - Bpa-free
+    - BPA Free Water bottles 1 liter
 - intent: i_15
   examples: |
     - Gear up for our Lazlive
@@ -238,6 +238,7 @@ nlu:
     - request a free sample to get free trials
 - intent: i_22
   examples: |
+    - Comment the questions that you would like our speakers to answer below and stay throughou
     - These informative, value-added resources can help you further educate parents on a wide range of topics, including allergies, nutrition, and more. 
     - Tips for the parents on how to determine which probiotic strain right for their baby
     - Today, you can chat with our real-live baby experts at any time.
