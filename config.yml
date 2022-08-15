@@ -72,5 +72,5 @@ policies:
   #   epochs: 100
   #   constrain_similarities: true
   - name: FallbackPolicy
-    nlu_threshold: 0.9
+    nlu_threshold: 0.7
     fallback_action_name: 'utter_other'
