@@ -85,3 +85,7 @@ stories:
   steps:
   - intent: i_25
   - action: utter_25
+- story: s_26
+  steps:
+  - intent: i_26
+  - action: utter_26

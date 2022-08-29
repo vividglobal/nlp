@@ -59,6 +59,7 @@ nlu:
     - Risk of powdered formula intrinsic contamination
 - intent: i_5
   examples: |
+    - Nuture your child's potential
     - provides immune support, and supports brain & eye development.
     - Support the normal functioning of your child's immune system   
     - support the growth of good Bifidus bacteria in the child's gut
@@ -291,3 +292,13 @@ nlu:
     - Don't miss out this exclusive wonderful rewards
     - Free gift with $40 purchase for 100st customers
     -  FREE kids’ camera for your child yet
+- intent: i_26
+  examples: |
+    - Our closet formula to breast milk
+    - For a natural feed
+    - Natural latch on due to the wide breast shaped nipple
+    - Breast milk bottle with teat
+    - breast-like nipple
+    - For more natural feeding
+    - closer to nature
+    - the most breast-like teat ever
